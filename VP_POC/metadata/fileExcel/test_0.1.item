@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_USIRcLZUEe-BcpDjvtIl0Q" name="test" dataPackage="_USIRcbZUEe-BcpDjvtIl0Q" Server="Localhost 127.0.0.1" FilePath="C:/Users/valpakuser/Desktop/ValPak PoC Data/ETL-TestReference.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Source" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Source:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_USIRcbZUEe-BcpDjvtIl0Q" name="default" dataManager="_USIRcLZUEe-BcpDjvtIl0Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_USIRcrZUEe-BcpDjvtIl0Q" id="_xj3ioLZTEe-BcpDjvtIl0Q" label="Source">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_USIRc7ZUEe-BcpDjvtIl0Q" label="ProductCode" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_USIRdLZUEe-BcpDjvtIl0Q" label="ProductName" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_USIRdbZUEe-BcpDjvtIl0Q" label="DepartmentCode" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_USIRdrZUEe-BcpDjvtIl0Q" label="Deparment" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

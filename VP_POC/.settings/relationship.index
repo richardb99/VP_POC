@@ -1,0 +1,102 @@
+[ {
+  "baseItem" : {
+    "id" : "_Ee8jwLbcEe-BzdvNEdwS0A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "VALPAK_POC:_mdMNYLMXEe-CDa9ighBWHg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_NKce0LbdEe-BzdvNEdwS0A",
+    "version" : "Latest",
+    "type" : "joblet"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_XcRRELCUEe-zrp84tBKbig",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Z4NiQLYqEe-BcpDjvtIl0Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_UR0vcLZUEe-BcpDjvtIl0Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_nyaaMLZUEe-BcpDjvtIl0Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_UR0vcLZUEe-BcpDjvtIl0Q - Source",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_nyaaMLZUEe-BcpDjvtIl0Q - ref_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_bxl6QLL_Ee-CDa9ighBWHg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_f3jqELL_Ee-CDa9ighBWHg",
+    "version" : "Latest",
+    "type" : "joblet"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_gXwMILJGEe-uK407vvt5gg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_i6-7oLL7Ee-CDa9ighBWHg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "VALPAK_POC:_mdMNYLMXEe-CDa9ighBWHg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_sRjUgLCtEe-zrp84tBKbig",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+} ]

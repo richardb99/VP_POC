@@ -1,0 +1,23 @@
+{
+  "version" : "1.0.0",
+  "disable" : null,
+  "requiredInstallableUnits" : [ {
+    "id" : "org.talend.lite.bd.components.cosmosdb.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.bd.dicomponents.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.component.azuredlsgen2.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.jobtemplate.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.dq.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tcompv0.azurestorage.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tcompv0.dataprep.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tcompv0.datastewardship.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tcompv0.snowflakeee.feature.feature.group"
+  } ]
+}
